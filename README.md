@@ -3,6 +3,8 @@
 # Slam Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
+... TESTED NO BAN ...
+
 # Features supported:
 
 ## Additional Features
