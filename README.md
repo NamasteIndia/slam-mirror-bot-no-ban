@@ -5,6 +5,8 @@ This is a telegram bot writen in python for mirroring files on the internet to o
 
 ... TESTED NO BAN ...
 
+For help visit https://t.me/mirrorupdatesnnews
+
 # Features supported:
 
 ## Additional Features
