@@ -482,7 +482,7 @@ class GoogleDriveHelper:
             Telegraph(access_token=telegraph_token).edit_page(path = self.path[prev_page],
                                  title = 'trOy Torrents - Search',
                                  author_name='trOy007',
-                                 author_url='https://github.com/namasteindia/slam-mirror-bot',
+                                 author_url='https://t.me/mirrorupdatesnnews',
                                  html_content=content)
         return
 
@@ -561,7 +561,7 @@ class GoogleDriveHelper:
                 self.path.append(Telegraph(access_token=telegraph_token).create_page(
                                                         title = 'trOy Torrents - Search',
                                                         author_name='trOy007',
-                                                        author_url='https://github.com/namasteindia/slam-mirror-bot',
+                                                        author_url='https://t.me/mirrorupdatesnnews',
                                                         html_content=content
                                                         )['path'])
 
